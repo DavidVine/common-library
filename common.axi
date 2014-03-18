@@ -9,6 +9,15 @@ define_constant
 
 /*
  * --------------------
+ * Command/String Delimeters
+ * --------------------
+ */
+char DELIM_HEADER[] = '-'
+char DELIM_PARAM[] = ','
+
+
+/*
+ * --------------------
  * Signal types
  * --------------------
  */
