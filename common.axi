@@ -35,6 +35,7 @@ char SIGNAL_TYPE_ALL[]     = 'ALL'
  */
 
 
+char VIDEO_SIGNAL_FORMAT_SGI[]         = 'SGI'
 char VIDEO_SIGNAL_FORMAT_HDMI[]        = 'HDMI'
 char VIDEO_SIGNAL_FORMAT_VGA[]         = 'VGA'
 char VIDEO_SIGNAL_FORMAT_DVI[]         = 'DVI'
